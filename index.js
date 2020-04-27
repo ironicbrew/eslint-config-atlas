@@ -24,7 +24,8 @@ module.exports = {
   "plugins": [
       "react",
       "@typescript-eslint",
-      "react-hooks"
+      "react-hooks",
+      "import"
   ],
   "rules": {
       // I prefer not to use these currently
