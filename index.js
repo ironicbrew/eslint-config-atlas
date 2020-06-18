@@ -70,7 +70,7 @@ module.exports = {
 
       // Sometimes prettier and this check conflict, better to just rely on prettier
       "react/jsx-indent": "off",
-
+      "newline-per-chained-call": "off",
       /*
       TODO: The rest of these will gradually be turned on/evaluated as I have more time
       */
